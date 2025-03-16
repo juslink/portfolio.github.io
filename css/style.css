@@ -85,6 +85,8 @@ ul {
     padding-right: 15px;
 }
 
+
+
 .container {
     max-width: 1100px;
     width: 100%;
@@ -347,6 +349,8 @@ h3.my-profession {
     max-width: 40%;
     text-align: center;
     position: relative;
+   
+    
 }
 
 .home-img::after {
@@ -373,7 +377,7 @@ h3.my-profession {
 
 .home .home-img img {
     margin: auto;
-    border-radius: 5px;
+    border-radius: 50%;
     height: 400px;
 }
 
